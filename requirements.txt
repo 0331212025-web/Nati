@@ -1,0 +1,13 @@
+# ─────────────────────────────────────────────
+#  METALNATI — Sistema de Control de Inventario
+#  Dependencias para despliegue en Streamlit Cloud / GitHub
+# ─────────────────────────────────────────────
+
+# Interfaz web
+streamlit>=1.35.0
+
+# Cliente Supabase (base de datos)
+supabase>=2.4.0
+
+# hashlib y datetime son módulos estándar de Python,
+# no necesitan instalarse por separado.
